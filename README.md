@@ -1,7 +1,7 @@
 
 # Projet 2 Transformez une maquette en site web avec HTML & CSS
 
-Il s'agit du projet 2 de la formation OpenClassRooms qui va permettre d'évaluer les compétences suivantes:
+Il s'agit du projet 2 du parcours de la formation OpenClassRooms qui va permettre d'évaluer les compétences suivantes:
 
 - Implémenter une interface responsive
 - Intégrer du contenu conformément à une maquette
@@ -18,6 +18,9 @@ Ma mission est d'intégrer l'interface du site avec du code HTML et CSS.
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
+## Demo
+
+https://ratanasenpai.github.io/Booki/
 
 ## Screenshot
 
