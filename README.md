@@ -1,5 +1,5 @@
 
-# Projet 2 Transformez une maquette en site web avec HTML & CSS
+# ![Logo](https://github.com/thierry-laval/archives/blob/master/images/Logo_OpenClassrooms.png?raw=true) Projet 2 Transformez une maquette en site web avec HTML & CSS
 
 Il s'agit du projet 2 du parcours de la formation OpenClassRooms qui va permettre d'évaluer les compétences suivantes:
 
