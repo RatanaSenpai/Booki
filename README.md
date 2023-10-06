@@ -6,6 +6,9 @@ Il s'agit du projet 2 du parcours de la formation OpenClassRooms qui va permettr
 - Implémenter une interface responsive
 - Intégrer du contenu conformément à une maquette
 
+## Objectifs à la fin du projet
+- Apprendre le HTML et CSS
+- Apprendre à utiliser Figma
 
 ## Booki
 
